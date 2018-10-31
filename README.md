@@ -11,8 +11,8 @@
  
 ### 二，示例图
 
-![更新流程](images/demo1.jpg)
-![命令行实例](images/demo2.bmp)
+![更新流程](demo1.jpg)
+![命令行实例](demo2.bmp)
 
  
 
